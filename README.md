@@ -1,1 +1,1 @@
-# A Script to DM everyone on your Discord Friendslist
+# A Script to DM everyone on your Discord Friends list
